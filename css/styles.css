@@ -11,7 +11,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #151515;
+    background-color: #ffffff;
     width: 100%;
     min-height: 100vh;
     padding-top: 2rem;
@@ -27,7 +27,7 @@ a {
 /* Variaveis Globais*/
 :root {
     --color-destaque: #5e0ddf;
-    --color-black: #101010;
+    --color-black: #1c8b78;
     --color-white: #fafafa;
 }
 
@@ -37,7 +37,7 @@ a {
     border-radius: 20px;
     width: 95%;
     max-width: 400px;
-    background-color: #050505;
+    background-color: #de6e3e;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -136,7 +136,7 @@ a {
 }
 
 .destaque {
-    color: var(--color-destaque);
+    color: #273341;
     font-weight: bold;
     font-size: 1rem;
     padding-bottom: 0.3rem;
@@ -238,12 +238,12 @@ a {
 }
 
 .redes-sociais .spotify:hover i {
-    color: #4add06;
+    color: #25d366;
     transition: color 0.3s;
 }
 
 .redes-sociais .mail:hover i {
-    color: #808080;
+    color: #000000;
     transition: color 0.3s;
 }
 
@@ -251,7 +251,7 @@ a {
 .widget4 {
     width: 100%;
     height: 16%;
-    background-color: var(--color-destaque);
+    background-color: #273341;
     border-radius: 12px;
     display: flex;
     align-items: center;
